@@ -1,5 +1,5 @@
 
-# Face Recognition and Distance Measurement
+# Face Recognition via OpenCV
 
 This project utilizes the `face_recognition` library along with `OpenCV` to perform real-time face recognition and measure the distance between the camera and the detected faces. The system is designed to identify known faces and display their names, along with the estimated distance from the camera.
 
